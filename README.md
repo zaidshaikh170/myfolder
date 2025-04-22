@@ -1,2 +1,2 @@
 # myfolder
-print("hello owrld")
+print("hello world")
